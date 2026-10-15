@@ -27,9 +27,8 @@ Azure DevOps Engineer | Azure Cloud | Terraform | Kubernetes | CI/CD Automation
 </h3> -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0F2027,50:203A43,100:00F7FF&height=180&section=header&text=Varsha%20Singh&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=55&desc=Python%20%7C%20Java%20%7C%20CSE%20Student&descAlignY=80&descSize=18" width="100%" alt="Varsha Singh Banner"/>
+  <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="400" alt="Coding Animation"/>
 </div>
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img 
