@@ -27,8 +27,7 @@ Azure DevOps Engineer | Azure Cloud | Terraform | Kubernetes | CI/CD Automation
 </h3> -->
 
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Eat+%F0%9F%8D%95+Sleep+%F0%9F%98%B4+Code+%F0%9F%92%BB;Python+%7C+Java;Building+My+Coding+Journey+%F0%9F%9A%80" alt="Coding Typing Animation"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0F2027,50:203A43,100:00F7FF&height=180&section=header&text=Varsha%20Singh&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=55&desc=Python%20%7C%20Java%20%7C%20CSE%20Student&descAlignY=80&descSize=18" width="100%" alt="Varsha Singh Banner"/>
 </div>
 
 <p align="center">
