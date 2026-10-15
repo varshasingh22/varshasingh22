@@ -1,159 +1,174 @@
+Bhai ❤️ ye lo, bilkul tumhare diye hue same HTML/Markdown format mein. Bas GitHub ke `README.md` mein direct copy-paste kar dena. 😎
 
-<div align="center">
+Writing
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=38&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Amit+Kumar+Verma" />
+\<div align="center"\>
 
-</div>
+\<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=38&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B,+I'm+Varsha+Singh" /\>
 
-<div align="center">
+\</div\>
 
-<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=38&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Amit+Kumar+Verma;Azure+DevOps+Engineer+🚀;Terraform+%7C+Kubernetes+%7C+Docker;Cloud+%26+Automation+Enthusiast" />
+\<div align="center"\>
 
-<br><br> -->
+\<h3\> Keep Learning • Keep Coding • Keep Growing 🚀\</h3\>
 
-<!-- <img src="https://user-images.githubusercontent.com/74038190/212750573-4cccb86b-6149-4b7d-bfdb-ecf5f0f6b8d4.gif" width="650"/>
+\</div\>
 
-<br><br> -->
+\<div align="center"\>
 
-<!-- <p>
- ✨ Thanks For Visiting My Profile ✨
-</p> -->
-<h3> Keep Learning • Keep Building • Keep Automating</h3>
+\<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/\>
 
-</div>
+\</div\>
 
-
-<!-- <h3 align="center">
-Azure DevOps Engineer | Azure Cloud | Terraform | Kubernetes | CI/CD Automation
-</h3> -->
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400"/>
-
-</div>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Azure+DevOps+Engineer;Terraform+%7C+Docker+%7C+Kubernetes;CI%2FCD+Automation+Specialist;Infrastructure+as+Code+Expert;Always+Building+%26+Learning+🚀" 
-    />
-  </a>
-</p>
-
+\<p align="center"\> \<a href="[https://git.io/typing-svg](<https://git.io/typing-svg>)"\> \<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=B.Tech+CSE+Student;Python+%7C+Java+Developer;Software+Development+Enthusiast;Problem+Solving+%26+Coding;Always+Learning+%26+Building+%F0%9F%9A%80" /\> \</a\> \</p\>
 
 ---
 
 # 💫 About Me
 
-<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+\<img align="right" alt="coding" width="320" src="[https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif](<https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif>)"\>
 
-- 💼 DevOps Engineer passionate about Cloud & Automation  
-- ☁️ Working on **Azure Cloud Infrastructure**
-- ⚙️ Skilled in **Terraform & Infrastructure as Code**
-- 🔁 Experienced in **Azure DevOps YAML Pipelines**
-- 🐳 Working with **Docker & Kubernetes (AKS)**
-- 📦 Building scalable & automated cloud solutions
-- 📊 Monitoring using **Prometheus, Grafana & Loki**
-- 🔐 Interested in **DevSecOps & Cloud Security**
-- 🚀 Continuously learning modern DevOps tools & practices
+- 🎓 Final-year B.Tech Computer Science Engineering student
+- 💻 Interested in Software Development and Programming
+- 🐍 Knowledge of Python programming
+- ☕ Familiar with Java programming
+- 🏗️ Built 2 projects to apply my programming knowledge
+- 🧠 Interested in problem-solving and logical thinking
+- 🌱 Continuously learning new technologies and development skills
+- 🚀 Passionate about building practical projects and improving my coding skills
 
 ---
 
 # 🚀 Tech Stack
 
-### ☁️ Cloud & DevOps Tools
+### 💻 Programming Languages
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=azure,terraform,docker,kubernetes,ansible,jenkins,githubactions" />
-</p>
+\<p align="left"\> \<img src="https://skillicons.dev/icons?i=python,java" /\> \</p\>
 
-### 💻 Languages & OS
+### 🛠️ Development Tools
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=bash,linux,python" />
-</p>
+\<p align="left"\> \<img src="https://skillicons.dev/icons?i=git,github,vscode" /\> \</p\>
 
-### 📊 Monitoring & Tools
+### 📚 Core Computer Science Skills
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=prometheus,grafana,git,github,vscode" />
-</p>
+- Object-Oriented Programming (OOP)
+- Programming Fundamentals
+- Problem Solving
+- Debugging and Code Optimization
+- Data Structures and Algorithms (Learning)
 
 ---
 
 # 🌱 Currently Learning
 
-- 🔹 Advanced Kubernetes (AKS)
-- 🔹 Terraform Modules with `for_each`
-- 🔹 GitOps & ArgoCD- 🔹 Azure Networking & Hub-Spoke Architecture
-- 🔹 DevSecOps Best Practices
+- 🔹 Advanced Python Programming
+- 🔹 Java and Object-Oriented Programming
+- 🔹 Data Structures and Algorithms
+- 🔹 Software Development Fundamentals
+- 🔹 Building Real-World Projects
+
+---
+
+# 🏗️ Featured Projects
+
+### 🐍 Project 1 — Python Project
+
+- Developed a project using Python programming.
+- Applied programming concepts to solve a practical problem.
+- Focused on code readability, logical thinking, and implementation.
+
+### ☕ Project 2 — Java Project
+
+- Built a project to practice Java programming.
+- Applied programming logic and object-oriented concepts.
+- Improved problem-solving and software development skills.
 
 ---
 
 # 📈 GitHub Stats
 
-<div align="center">
+\<div align="center"\>
 
-<img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=akkc01&show_icons=true&theme=tokyonight&hide_border=true" />
-<img width="37%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akkc01&layout=compact&theme=tokyonight&hide_border=true" />
+\<img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=YOUR\_USERNAME&show\_icons=true&theme=tokyonight&hide\_border=true" /\>
 
-</div>
+\<img width="37%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YOUR\_USERNAME&layout=compact&theme=tokyonight&hide\_border=true" /\>
+
+\</div\>
 
 ---
 
 # 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akkc01&theme=tokyonight"/>
-</p>
+\<p align="center"\> \<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR\_USERNAME&theme=tokyonight&hide\_border=true"/\> \</p\>
 
 ---
 
-# 🏗️ Featured DevOps Skills
+# 💡 My Technical Skills
 
-✅ Azure DevOps Pipelines  
-✅ Terraform IaC  
-✅ Kubernetes (AKS)  
-✅ Docker Containers  
-✅ Helm Charts  
-✅ Linux Administration  
-✅ Git & GitHub  
-✅ Monitoring & Logging  
-✅ CI/CD Automation  
-✅ Cloud Networking  
+✅ Python Programming
+
+✅ Java Programming
+
+✅ Object-Oriented Programming
+
+✅ Problem Solving
+
+✅ Logical Thinking
+
+✅ Debugging
+
+✅ Git & GitHub (if used)
+
+✅ Software Development Fundamentals
+
+---
+
+# 🎯 Career Goals
+
+- 🚀 Looking for opportunities to grow as a Software Developer
+- 💻 Interested in Python and Java Development
+- 🌱 Eager to learn new technologies and frameworks
+- 🤝 Open to learning, collaboration, and practical project experience
+- 🎯 Focused on building strong technical and problem-solving skills
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="40" />
-</a>
+\<p align="left"\>
 
-<a href="https://github.com/YOUR_USERNAME" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="40" />
-</a>
-</p>
+\<a href="https://linkedin.com/in/YOUR\_LINKEDIN" target="\_blank"\> \<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="40" alt="LinkedIn" /\> \</a\>
+
+\<a href="https://github.com/YOUR\_USERNAME" target="\_blank"\> \<img align="center" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg](<https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg>)" height="40" width="40" alt="GitHub" /\> \</a\>
+
+\</p\>
 
 ---
 
 # 🚀 Open To Opportunities
 
-🚀 Open to DevOps / Cloud Engineer opportunities where I can contribute in:
+I am eager to explore opportunities in:
 
-- Azure Cloud
-- Terraform & IaC
-- Docker & Kubernetes
-- CI/CD Automation
-- Monitoring & Observability
-- DevSecOps
+- Python Development
+- Java Development
+- Software Engineering
+- Software Development Internships
+- Entry-Level Developer Roles
+- Collaborative Coding Projects
 
 ---
 
-<div align="center">
+\<div align="center"\>
 
-<h3>✨ Thanks for visiting my GitHub Profile ✨</h3>
+\<h3\>✨ Thanks for visiting my GitHub Profile ✨\</h3\>
 
-</div>
+\<h4\>Keep Learning • Keep Building • Keep Growing 💙\</h4\>
+
+\</div\>
+
+Bhai, bas 2 changes zaroor karna:
+
+- `YOUR_USERNAME` ko apne actual GitHub username se replace karna, taaki stats sahi account ke dikhein.
+- Dono projects ke generic descriptions ko apne actual projects ke naam aur details se update karna.
+
+LinkedIn URL nahi hai toh us link ko baad mein add kar sakti ho.
